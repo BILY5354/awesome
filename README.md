@@ -16,6 +16,8 @@
 
 ## miscellaneous
 
+*   [BILY5354/awesome](https://github.com/BILY5354/awesome) - My github star list
+
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 *   [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
