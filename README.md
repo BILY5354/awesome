@@ -16,6 +16,8 @@
 
 ## miscellaneous
 
+*   [base0225/NanJingUniversity842](https://github.com/base0225/NanJingUniversity842) - 考研842的专业课（数据结构、软件工程、操作系统、网络）
+
 *   [BILY5354/awesome](https://github.com/BILY5354/awesome) - My github star list
 
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
