@@ -6,8 +6,9 @@
 
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
+*   [Astro](#astro)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Makefile](#makefile)
 *   [Shell](#shell)
@@ -62,13 +63,9 @@
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
-## TypeScript
+## Astro
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
 ## Python
 
@@ -81,6 +78,12 @@
 *   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 *   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
+
+## TypeScript
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
 ## JavaScript
 
