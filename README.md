@@ -17,6 +17,8 @@
 
 ## C
 
+*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
+
 *   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
 
 *   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
