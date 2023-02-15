@@ -4,16 +4,30 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [C](#c)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Astro](#astro)
-*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Makefile](#makefile)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## Python
+
+*   [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) -
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+*   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 
 ## C
 
@@ -74,18 +88,6 @@
 ## Astro
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-## Python
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 
 ## TypeScript
 
