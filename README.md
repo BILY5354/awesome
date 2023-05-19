@@ -8,6 +8,7 @@
 *   [C](#c)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
+*   [Astro](#astro)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Makefile](#makefile)
@@ -86,9 +87,11 @@
 
 *   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
-## TypeScript
+## Astro
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## TypeScript
 
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
