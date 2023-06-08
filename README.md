@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-*   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [C](#c)
+*   [Python](#python)
+*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -15,11 +15,25 @@
 *   [Shell](#shell)
 *   [Swift](#swift)
 
+## Rust
+
+*   [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
+
+## C
+
+*   [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
+
+*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
+
+*   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
+
+*   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
+
+*   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
+
 ## Python
 
 *   [mattupstate/overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating some of my common practices
-
-*   [flaskbb/flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
 
 *   [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 
@@ -31,10 +45,6 @@
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
 *   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 
 ## miscellaneous
@@ -42,8 +52,6 @@
 *   [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 
 *   [base0225/NanJingUniversity842](https://github.com/base0225/NanJingUniversity842) - 考研842的专业课（数据结构、软件工程、操作系统、网络）
-
-*   [BILY5354/awesome](https://github.com/BILY5354/awesome) - My github star list
 
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
@@ -63,27 +71,7 @@
 
 *   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 
-*   [guodongxiaren/README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
-
-*   [BILY5354/HS918](https://github.com/BILY5354/HS918) - 用于记录备考华师918时的C++代码
-
 *   [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
-
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-
-## Rust
-
-*   [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-
-## C
-
-*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
-
-*   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
-
-*   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
-
-*   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 
 ## Java
 
@@ -110,10 +98,6 @@
 ## JavaScript
 
 *   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-
-*   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-
-*   [BILY5354/Learn\_Java](https://github.com/BILY5354/Learn_Java) - 学习java记录
 
 ## Makefile
 
