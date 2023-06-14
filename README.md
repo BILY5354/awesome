@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Rust](#rust)
 *   [C](#c)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -14,6 +14,24 @@
 *   [Makefile](#makefile)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## Python
+
+*   [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs
+
+*   [mattupstate/overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating some of my common practices
+
+*   [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
+
+*   [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
+
+*   [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) -
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 
 ## Rust
 
@@ -30,22 +48,6 @@
 *   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
 
 *   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
-
-## Python
-
-*   [mattupstate/overholt](https://github.com/mattupstate/overholt) - Example Flask application illustrating some of my common practices
-
-*   [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
-
-*   [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-
-*   [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) -
-
-*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 
 ## miscellaneous
 
