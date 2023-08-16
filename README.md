@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Smarty](#smarty)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -16,6 +17,10 @@
 *   [Makefile](#makefile)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## Smarty
+
+*   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
 
 ## miscellaneous
 
