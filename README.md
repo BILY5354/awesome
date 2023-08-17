@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [Smarty](#smarty)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -17,6 +18,10 @@
 *   [Makefile](#makefile)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## SCSS
+
+*   [helloflask/bootstrap-flask](https://github.com/helloflask/bootstrap-flask) - Bootstrap 4 & 5 helper for your Flask projects.
 
 ## Smarty
 
