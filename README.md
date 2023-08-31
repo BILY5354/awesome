@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
@@ -11,14 +12,27 @@
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Java](#java)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Python](#python)
 *   [Rust](#rust)
-*   [C](#c-1)
 *   [TypeScript](#typescript)
 *   [Makefile](#makefile)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## C
+
+*   [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
+
+*   [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
+
+*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
+
+*   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
+
+*   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
+
+*   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 
 ## Vue
 
@@ -115,18 +129,6 @@
 ## Rust
 
 *   [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-
-## C
-
-*   [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
-
-*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
-
-*   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
-
-*   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
-
-*   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 
 ## TypeScript
 
