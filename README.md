@@ -22,6 +22,10 @@
 
 ## Python
 
+*   [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
+
+*   [reata/sqllineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python
+
 *   [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 
 *   [flaskbb/flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
