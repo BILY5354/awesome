@@ -4,21 +4,32 @@
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [C#](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c)
+*   [C](#c-1)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
 *   [JavaScript](#javascript)
-*   [Go](#go)
 *   [Java](#java)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Makefile](#makefile)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## Go
+
+*   [darkFernMoss/mysqlDiff](https://github.com/darkFernMoss/mysqlDiff) - A tool to compare the differences between two databases and generate updated SQL statement scripts./一个比较两个数据库之间的差异并生成更新的SQL语句脚本的工具。
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+## C\#
+
+*   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
 
 ## Python
 
@@ -111,10 +122,6 @@
 *   [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
 
 *   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-
-## Go
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ## Java
 
