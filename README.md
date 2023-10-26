@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Go](#go)
 *   [C#](#c)
 *   [Python](#python)
@@ -19,6 +20,10 @@
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## HTML
+
+*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
 
 ## Go
 
