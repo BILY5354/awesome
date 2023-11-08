@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [HTML](#html)
 *   [Go](#go)
 *   [C#](#c)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c-1)
 *   [Vue](#vue)
@@ -21,21 +21,15 @@
 *   [Shell](#shell)
 *   [Swift](#swift)
 
-## HTML
-
-*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
-
-## Go
-
-*   [darkFernMoss/mysqlDiff](https://github.com/darkFernMoss/mysqlDiff) - A tool to compare the differences between two databases and generate updated SQL statement scripts./一个比较两个数据库之间的差异并生成更新的SQL语句脚本的工具。
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-## C\#
-
-*   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
-
 ## Python
+
+*   [muziing/PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
+
+*   [Wanderson-Magalhaes/Modern\_GUI\_PyDracula\_PySide6\_or\_PyQt6](https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6) -
+
+*   [UN-GCPDS/qt-material](https://github.com/UN-GCPDS/qt-material) - Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6
+
+*   [muziing/PyQt\_practice](https://github.com/muziing/PyQt_practice) - 通过可直接运行的代码示例讲解 PyQt 5 常用基础控件。附学习资源、demo分享。
 
 *   [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
 
@@ -60,6 +54,20 @@
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 *   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
+
+## HTML
+
+*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
+
+## Go
+
+*   [darkFernMoss/mysqlDiff](https://github.com/darkFernMoss/mysqlDiff) - A tool to compare the differences between two databases and generate updated SQL statement scripts./一个比较两个数据库之间的差异并生成更新的SQL语句脚本的工具。
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+## C\#
+
+*   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
 
 ## miscellaneous
 
