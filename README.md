@@ -23,6 +23,8 @@
 
 ## Python
 
+*   [pywinauto/py\_inspect](https://github.com/pywinauto/py_inspect) - Inspect.exe analoque for Windows with (Py3.5, pywinauto and PyQt) - this is officially supported fork
+
 *   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 
 *   [muziing/PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
