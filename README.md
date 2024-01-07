@@ -77,7 +77,7 @@
 
 *   [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
 
-*   [THU-feiyue/THU-feiyue](https://github.com/THU-feiyue/THU-feiyue) - 清华大学飞跃手册
+*   [THU-feiyue/docs](https://github.com/THU-feiyue/docs) - 清华大学飞跃手册
 
 *   [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 
