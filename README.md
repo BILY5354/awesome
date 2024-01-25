@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Python](#python)
@@ -20,6 +21,10 @@
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## Ruby
+
+*   [jeremycole/innodb\_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
 
 ## miscellaneous
 
