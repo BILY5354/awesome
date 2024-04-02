@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [C++](#c)
@@ -17,9 +18,18 @@
 *   [Smarty](#smarty)
 *   [JavaScript](#javascript)
 *   [Java](#java)
-*   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## TypeScript
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
 ## miscellaneous
 
@@ -190,14 +200,6 @@
 *   [material-components/material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
 
 *   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-
-## TypeScript
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
 ## Shell
 
