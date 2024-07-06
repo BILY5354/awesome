@@ -39,7 +39,7 @@
 
 *   [sontek/snowmachine](https://github.com/sontek/snowmachine) - A python script that allows your terminal to snow.
 
-*   [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
+*   [yinkaisheng/Python-UIAutomation-for-Windows](https://github.com/yinkaisheng/Python-UIAutomation-for-Windows) - 🐍Python 3 wrapper of Microsoft UIAutomation. Support UIAutomation for MFC, WindowsForm, WPF, Modern UI(Metro UI), Qt, IE, Firefox, Chrome ...
 
 *   [pywinauto/py\_inspect](https://github.com/pywinauto/py_inspect) - Inspect.exe analoque for Windows with (Py3.5, pywinauto and PyQt) - this is officially supported fork
 
