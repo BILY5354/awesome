@@ -23,7 +23,7 @@
 
 ## miscellaneous
 
-*   [to-alan/HarmonyInstallGMS](https://github.com/to-alan/HarmonyInstallGMS) - 华为安装GMS教程，可使用原生的GMS，该教程为在前人的基础上优化改进，使用了microg。原教程地址在本人个人博客https://toalan.com。
+*   [to-alan/HarmonyInstallGMS](https://github.com/to-alan/HarmonyInstallGMS) - 华为安装GMS教程，可使用原生的GMS，该教程为在前人的基础上优化改进，使用了microg。原教程地址在本人个人博客https://toalan.com
 
 *   [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent) - AUITestAgent is the first automatic, natural language-driven GUI testing tool for mobile apps, capable of fully automating the entire process of GUI interaction and function verification.
 
