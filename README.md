@@ -4,22 +4,38 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Java](#java)
 *   [Ruby](#ruby)
 *   [HTML](#html)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Go](#go)
-*   [C](#c-2)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## C
+
+*   [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
+
+*   [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
+
+*   [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
+
+*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
+
+*   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
+
+*   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
+
+*   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 
 ## miscellaneous
 
@@ -196,20 +212,6 @@
 *   [darkFernMoss/mysqlDiff](https://github.com/darkFernMoss/mysqlDiff) - A tool to compare the differences between two databases and generate updated SQL statement scripts./一个比较两个数据库之间的差异并生成更新的SQL语句脚本的工具。
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-## C
-
-*   [Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel) - Simple kernel for learning operating systems. 用于学习操作系统的简单内核
-
-*   [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
-
-*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
-
-*   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
-
-*   [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw) - Operating Systems: Three Easy Pieces(OSTEP) homework and project solutions
-
-*   [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 
 ## Vue
 
