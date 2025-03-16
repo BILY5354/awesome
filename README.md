@@ -11,13 +11,13 @@
 *   [C++](#c-1)
 *   [Java](#java)
 *   [Ruby](#ruby)
-*   [HTML](#html)
+*   [JavaScript](#javascript)
 *   [C#](#c-2)
+*   [HTML](#html)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
-*   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Swift](#swift)
 
@@ -193,11 +193,11 @@
 
 *   [jeremycole/innodb\_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
 
-## HTML
+## JavaScript
 
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
-*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
+*   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
 ## C\#
 
@@ -206,6 +206,10 @@
 *   [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 
 *   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
+
+## HTML
+
+*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
 
 ## Go
 
@@ -226,10 +230,6 @@
 ## Smarty
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
-
-## JavaScript
-
-*   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
 ## Shell
 
