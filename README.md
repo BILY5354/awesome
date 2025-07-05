@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Java](#java)
-*   [C](#c)
+*   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [C++](#c-1)
 *   [Ruby](#ruby)
 *   [JavaScript](#javascript)
 *   [C#](#c-2)
@@ -20,6 +20,16 @@
 *   [Smarty](#smarty)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## C++
+
+*   [lcatro/Source-and-Fuzzing](https://github.com/lcatro/Source-and-Fuzzing) - 一些阅读源码和Fuzzing 的经验,涵盖黑盒与白盒测试..
+
+*   [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP and WinUI 3 applications. Seamlessly view and manipulate UI elements and their properties in real time.
+
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+
+*   [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) - Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！公众号：Qt实战/Qt入门和进阶/Qt教程
 
 ## Java
 
@@ -184,14 +194,6 @@
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 *   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
-
-## C++
-
-*   [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP and WinUI 3 applications. Seamlessly view and manipulate UI elements and their properties in real time.
-
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-
-*   [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) - Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！公众号：Qt实战/Qt入门和进阶/Qt教程
 
 ## Ruby
 
