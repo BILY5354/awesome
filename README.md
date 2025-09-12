@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Java](#java)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
 *   [JavaScript](#javascript)
-*   [C#](#c-2)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -20,6 +20,16 @@
 *   [Smarty](#smarty)
 *   [Shell](#shell)
 *   [Swift](#swift)
+
+## C\#
+
+*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+
+*   [2gis/Winium.Desktop](https://github.com/2gis/Winium.Desktop) - Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinFroms and WPF platforms.
+
+*   [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
+
+*   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
 
 ## Python
 
@@ -210,14 +220,6 @@
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 *   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
-
-## C\#
-
-*   [2gis/Winium.Desktop](https://github.com/2gis/Winium.Desktop) - Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinFroms and WPF platforms.
-
-*   [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
-
-*   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
 
 ## HTML
 
