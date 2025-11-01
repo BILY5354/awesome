@@ -4,8 +4,10 @@
 
 ## Table of Contents
 
-*   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [HTML](#html)
 *   [C#](#c)
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
 *   [Java](#java)
@@ -13,13 +15,35 @@
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
 *   [JavaScript](#javascript)
-*   [HTML](#html)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
 *   [Shell](#shell)
-*   [Swift](#swift)
+
+## Jupyter Notebook
+
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+## HTML
+
+*   [tencentmusic/page-eyes-agent](https://github.com/tencentmusic/page-eyes-agent) - PageEyes Agent 是一个轻量级 UI Agent，通过自然语言指令驱动，无需编写脚本既可实现Web、Android平台的UI自动化任务。
+
+*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
+
+## C\#
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+
+*   [FlaUI/FlaUInspect](https://github.com/FlaUI/FlaUInspect) - Inspect tool to inspect UIs from an automation perspective
+
+*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+
+*   [2gis/Winium.Desktop](https://github.com/2gis/Winium.Desktop) - Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinFroms and WPF platforms.
+
+*   [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
+
+*   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
 
 ## Python
 
@@ -89,20 +113,6 @@
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-*   [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
-
-## C\#
-
-*   [FlaUI/FlaUInspect](https://github.com/FlaUI/FlaUInspect) - Inspect tool to inspect UIs from an automation perspective
-
-*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
-
-*   [2gis/Winium.Desktop](https://github.com/2gis/Winium.Desktop) - Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinFroms and WPF platforms.
-
-*   [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
-
-*   [zhangqi-ulua/ServerDatabaseVersionUpdateHelper](https://github.com/zhangqi-ulua/ServerDatabaseVersionUpdateHelper) - 本工具可以对比新旧两个版本的服务器软件所用数据库，并根据配置（可设置对某表格忽略对比、仅比较表结构、比较结构和数据），展示两库差异并生成将旧版本数据库的表结构和数据升级为新版本的SQL
-
 ## miscellaneous
 
 *   [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
@@ -154,8 +164,6 @@
 *   [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 
 *   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-
-*   [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 
 ## C++
 
@@ -221,10 +229,6 @@
 
 *   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
-## HTML
-
-*   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
-
 ## Go
 
 *   [darkFernMoss/mysqlDiff](https://github.com/darkFernMoss/mysqlDiff) - A tool to compare the differences between two databases and generate updated SQL statement scripts./一个比较两个数据库之间的差异并生成更新的SQL语句脚本的工具。
@@ -248,7 +252,3 @@
 ## Shell
 
 *   [JetsonHacksNano/installSwapfile](https://github.com/JetsonHacksNano/installSwapfile) - Install a swap file on the NVIDIA Jetson Nano Developer Kit. This should help with memory pressure issues.
-
-## Swift
-
-*   [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
