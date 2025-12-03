@@ -201,7 +201,7 @@
 
 *   [kiukotsu/ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
 
-*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions, migrated to github.io from gitbook.io which is being shut down.
+*   [DreamAndDead/CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions
 
 *   [MarekZhang/OSTEP-Homework](https://github.com/MarekZhang/OSTEP-Homework) - Operating System - Three Easy Pieces homework solutions
 
