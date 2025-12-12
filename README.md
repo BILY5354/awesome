@@ -14,11 +14,11 @@
 *   [C](#c-2)
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
-*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
+*   [JavaScript](#javascript)
 *   [Shell](#shell)
 
 ## Jupyter Notebook
@@ -213,6 +213,8 @@
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -222,12 +224,6 @@
 ## Ruby
 
 *   [jeremycole/innodb\_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
-
-## JavaScript
-
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-
-*   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
 ## Go
 
@@ -248,6 +244,10 @@
 ## Smarty
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
+
+## JavaScript
+
+*   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
 ## Shell
 
