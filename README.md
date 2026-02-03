@@ -15,6 +15,7 @@
 *   [Java](#java)
 *   [C](#c-2)
 *   [Ruby](#ruby)
+*   [MDX](#mdx)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
@@ -22,13 +23,13 @@
 
 ## TypeScript
 
+*   [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
+
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
@@ -126,7 +127,7 @@
 
 ## C\#
 
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 *   [FlaUI/FlaUInspect](https://github.com/FlaUI/FlaUInspect) - Inspect tool to inspect UIs from an automation perspective
 
@@ -186,8 +187,6 @@
 
 *   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
-*   [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
-
 ## C++
 
 *   [lcatro/Source-and-Fuzzing](https://github.com/lcatro/Source-and-Fuzzing) - 一些阅读源码和Fuzzing 的经验,涵盖黑盒与白盒测试..
@@ -231,6 +230,10 @@
 ## Ruby
 
 *   [jeremycole/innodb\_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
+
+## MDX
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Vue
 
