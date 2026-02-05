@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
-*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [C#](#c)
@@ -21,29 +21,9 @@
 *   [Smarty](#smarty)
 *   [JavaScript](#javascript)
 
-## TypeScript
-
-*   [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-## Go
-
-*   [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-
-*   [darkFernMoss/mysqlDiff](https://github.com/darkFernMoss/mysqlDiff) - A tool to compare the differences between two databases and generate updated SQL statement scripts./一个比较两个数据库之间的差异并生成更新的SQL语句脚本的工具。
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
 ## Python
+
+*   [Coff0xc/AutoRedTeam-Orchestrator](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) - AI-Driven Automated Red Team Orchestration Framework | AI驱动的自动化红队编排框架 | 101 MCP Tools | 2000+ Payloads | Full ATT\&CK Coverage | MCTS Attack Planner | Knowledge Graph | Cross-platform
 
 *   [chenjigang4167/testhub\_platform](https://github.com/chenjigang4167/testhub_platform) - AI-Powered Testing Platform
 
@@ -115,6 +95,28 @@
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## TypeScript
+
+*   [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+## Go
+
+*   [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+
+*   [darkFernMoss/mysqlDiff](https://github.com/darkFernMoss/mysqlDiff) - A tool to compare the differences between two databases and generate updated SQL statement scripts./一个比较两个数据库之间的差异并生成更新的SQL语句脚本的工具。
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
 ## Jupyter Notebook
 
 *   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
@@ -184,8 +186,6 @@
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
 *   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
 ## C++
 
