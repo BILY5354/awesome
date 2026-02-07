@@ -15,7 +15,6 @@
 *   [Java](#java)
 *   [C](#c-2)
 *   [Ruby](#ruby)
-*   [MDX](#mdx)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
@@ -125,6 +124,8 @@
 
 *   [tencentmusic/page-eyes-agent](https://github.com/tencentmusic/page-eyes-agent) - PageEyes Agent 是一个轻量级 UI Agent，通过自然语言指令驱动，无需编写脚本既可实现Web、Android平台的UI自动化任务。
 
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
 *   [cxinping/PyQt5](https://github.com/cxinping/PyQt5) - 《PyQt5快速开发与实战》配套代码
 
 ## C\#
@@ -230,10 +231,6 @@
 ## Ruby
 
 *   [jeremycole/innodb\_ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby
-
-## MDX
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Vue
 
