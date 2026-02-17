@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -18,61 +18,10 @@
 *   [Ruby](#ruby)
 *   [SCSS](#scss)
 *   [Smarty](#smarty)
-*   [JavaScript](#javascript)
-
-## Jupyter Notebook
-
-*   [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A minimal Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
-
-*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
-
-## miscellaneous
-
-*   [blessonism/github-explorer-skill](https://github.com/blessonism/github-explorer-skill) - OpenClaw Agent Skill — 对任意 GitHub 项目进行多源深度分析，输出结构化研判报告
-
-*   [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
-
-*   [waylau/harmonyos-tutorial](https://github.com/waylau/harmonyos-tutorial) - HarmonyOS Tutorial. 《跟老卫学HarmonyOS开发》
-
-*   [rosedblabs/database-learning](https://github.com/rosedblabs/database-learning) - (Chinese) 数据库/存储学习路径推荐
-
-*   [to-alan/HarmonyOSInstallGMS](https://github.com/to-alan/HarmonyOSInstallGMS) - 华为安装GMS教程，可使用原生的GMS，该教程为在前人的基础上优化改进，使用了microg。原教程地址在本人个人博客https://toalan.com
-
-*   [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent) - AUITestAgent is the first automatic, natural language-driven GUI testing tool for mobile apps, capable of fully automating the entire process of GUI interaction and function verification.
-
-*   [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2025)
-
-*   [blackrosezy/gui-inspect-tool](https://github.com/blackrosezy/gui-inspect-tool) - Gui Inspect tool for Windows
-
-*   [maicss/PyQt-Chinese-tutorial](https://github.com/maicss/PyQt-Chinese-tutorial) - PyQt6中文教程
-
-*   [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
-
-*   [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
-
-*   [THU-feiyue/docs](https://github.com/THU-feiyue/docs) - 清华大学飞跃手册
-
-*   [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
-
-*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
-
-*   [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-
-*   [base0225/NanJingUniversity842](https://github.com/base0225/NanJingUniversity842) - 考研842的专业课（数据结构、软件工程、操作系统、网络）
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
-
-*   [BILY5354/Learn\_Git](https://github.com/BILY5354/Learn_Git) - 记录我的常用Git命令
-
-*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
 ## Python
+
+*   [Dataojitori/nocturne\_memory](https://github.com/Dataojitori/nocturne_memory) - 一个基于uri而不是RAG的轻量级、可回滚、可视化的 **AI 外挂MCP记忆库**。让你的 AI 拥有跨模型，跨会话，跨工具的持久的结构化记忆。
 
 *   [Coff0xc/AutoRedTeam-Orchestrator](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) - AI-Driven Automated Red Team Orchestration Framework | AI驱动的自动化红队编排框架 | 101 MCP Tools | 2000+ Payloads | Full ATT\&CK Coverage | MCTS Attack Planner | Knowledge Graph | Cross-platform
 
@@ -143,6 +92,58 @@
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## Jupyter Notebook
+
+*   [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A minimal Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
+
+*   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+## miscellaneous
+
+*   [blessonism/github-explorer-skill](https://github.com/blessonism/github-explorer-skill) - OpenClaw Agent Skill — 对任意 GitHub 项目进行多源深度分析，输出结构化研判报告
+
+*   [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
+
+*   [waylau/harmonyos-tutorial](https://github.com/waylau/harmonyos-tutorial) - HarmonyOS Tutorial. 《跟老卫学HarmonyOS开发》
+
+*   [rosedblabs/database-learning](https://github.com/rosedblabs/database-learning) - (Chinese) 数据库/存储学习路径推荐
+
+*   [to-alan/HarmonyOSInstallGMS](https://github.com/to-alan/HarmonyOSInstallGMS) - 华为安装GMS教程，可使用原生的GMS，该教程为在前人的基础上优化改进，使用了microg。原教程地址在本人个人博客https://toalan.com
+
+*   [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent) - AUITestAgent is the first automatic, natural language-driven GUI testing tool for mobile apps, capable of fully automating the entire process of GUI interaction and function verification.
+
+*   [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2025)
+
+*   [blackrosezy/gui-inspect-tool](https://github.com/blackrosezy/gui-inspect-tool) - Gui Inspect tool for Windows
+
+*   [maicss/PyQt-Chinese-tutorial](https://github.com/maicss/PyQt-Chinese-tutorial) - PyQt6中文教程
+
+*   [tangwz/db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新） http://mysql.taobao.org/monthly/
+
+*   [ranxian/xv6-chinese](https://github.com/ranxian/xv6-chinese) - 中文版的 MIT xv6 文档
+
+*   [THU-feiyue/docs](https://github.com/THU-feiyue/docs) - 清华大学飞跃手册
+
+*   [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
+
+*   [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
+
+*   [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+
+*   [base0225/NanJingUniversity842](https://github.com/base0225/NanJingUniversity842) - 考研842的专业课（数据结构、软件工程、操作系统、网络）
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [lanlankaoyanshan/408Bester](https://github.com/lanlankaoyanshan/408Bester) - 这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库
+
+*   [BILY5354/Learn\_Git](https://github.com/BILY5354/Learn_Git) - 记录我的常用Git命令
+
+*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
 ## TypeScript
 
@@ -245,7 +246,3 @@
 ## Smarty
 
 *   [LinuxSuRen/open-source-best-practice](https://github.com/LinuxSuRen/open-source-best-practice) - This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践
-
-## JavaScript
-
-*   [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
